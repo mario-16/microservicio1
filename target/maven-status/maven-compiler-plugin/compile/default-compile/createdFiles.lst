@@ -1,0 +1,6 @@
+com\example\microservicio1\Publisher.class
+com\example\microservicio1\Controller.class
+com\example\microservicio1\RabbitMQConfig.class
+com\example\microservicio1\Listener.class
+com\example\microservicio1\Microservicio1Application.class
+com\example\microservicio1\Service.class
